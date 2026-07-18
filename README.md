@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Java-21-orange" />
   <img src="https://img.shields.io/badge/SpringBoot-3.x-brightgreen" />
   <img src="https://img.shields.io/badge/Kafka-EventDriven-black" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4" />
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue" />
   <img src="https://img.shields.io/badge/Docker-Container-blue" />
   <img src="https://img.shields.io/badge/Redis-Cache-red" />
@@ -85,7 +85,7 @@
 |----------------------|-------------|
 | 💻 Backend           | Java, Spring Boot, Microservices |
 | ⚡ Event Streaming   | Kafka, Event-Driven Architecture |
-| ☁️ Cloud             | AWS (EKS, S3, Lambda) |
+| ☁️ Cloud             | Azure (ADF, ACA, Storage Account) |
 | 📦 Containers        | Docker, Kubernetes |
 | 🗄️ Data             | PostgreSQL, MongoDB, Redis |
 | 🔄 DevOps            | CI/CD, GitHub Actions, Jenkins |
