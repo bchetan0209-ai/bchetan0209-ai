@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Ashish%20Kumar%20Gupta&fontSize=45&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Kafka%20%7C%20AWS%20%7C%20AI%20%7C%20Building%20Scalable%20Systems&descAlignY=63&descSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Chetan%20&fontSize=45&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Kafka%20%7C%20AWS%20%7C%20AI%20%7C%20Building%20Scalable%20Systems&descAlignY=63&descSize=20&fontColor=ffffff" />
 </p>
 
 <p align="center" style="height:0px">
