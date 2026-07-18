@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Chetan%20&fontSize=45&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Kafka%20%7C%20AWS%20%7C%20AI%20%7C%20Building%20Scalable%20Systems&descAlignY=63&descSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?AWtype=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Chetan%20&fontSize=45&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Kafka%20%7C%20AWS%20%7C%20AI%20%7C%20Building%20Scalable%20Systems&descAlignY=63&descSize=20&fontColor=ffffff" />
 </p>
 
 <p align="center" style="height:0px">
@@ -58,7 +58,7 @@
 ## 🧠 Skills
 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,aws,docker,kubernetes,redis,react,angular,git,js,html,mongo,mysql,postgres,python,fastapi,flask,ai,figma,npm,ubuntu,grafana,jenkins,idea,postman,sublime,vscode,jquery,github,eclipse,aiscript,apple,windows&perline=20" height="90"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,azure,docker,kubernetes,redis,react,angular,git,js,html,mongo,mysql,postgres,python,fastapi,flask,ai,figma,npm,ubuntu,grafana,jenkins,idea,postman,sublime,vscode,jquery,github,eclipse,aiscript,apple,windows&perline=20" height="90"/>
 </p>
 
 
@@ -74,7 +74,7 @@
 - 🤖 Exploring **AI/LLM integrations in enterprise systems**
 - 🏦 Experience aligned with **investment banking-grade architectures**
 - ⚡ Expert in **Java, Spring Boot, Microservices**
-- ☁️ Cloud-native (**AWS, Kubernetes, Docker, CI/CD**)
+- ☁️ Cloud-native (**Azure, Kubernetes, Docker, CI/CD**)
 - 🤖 Building **AI-powered backend systems (LLMs, agents, automation)**
 
 ---
