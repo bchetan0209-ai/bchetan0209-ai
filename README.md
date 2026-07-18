@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Chetan%20&fontSize=45&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Kafka%20%7C%20AWS%20%7C%20AI%20%7C%20Building%20Scalable%20Systems&descAlignY=63&descSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Chetan%20&BhandarifontSize=45&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Kafka%20%7C%20AWS%20%7C%20AI%20%7C%20Building%20Scalable%20Systems&descAlignY=63&descSize=20&fontColor=ffffff" />
 </p>
 
 <p align="center" style="height:0px">
@@ -9,13 +9,13 @@
 
 
 <p align="center">
-  <a href="mailto:ashishkrgupta@hotmail.com">
+  <a href="mailto:bchetan0209@gmail.com">
     <img src="https://img.shields.io/badge/📩%20Hire%20Me-Now-ff6b6b?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/ashish-kumar-gupta-9a183525/">
+  <a href="https://www.linkedin.com/in/chetan-bhandari-2299b5203//">
     <img src="https://img.shields.io/badge/🔗%20LinkedIn-Profile-blue?style=for-the-badge" />
   </a>
-  <a href="https://github.com/ashishkrgupta">
+  <a href="https://github.com/bchetan0209-ai/waytoai">
     <img src="https://img.shields.io/badge/💻%20GitHub-Repos-black?style=for-the-badge" />
   </a>
 </p>
@@ -105,7 +105,7 @@
 ## 📌 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkrgupta&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bchetan0209-ai&theme=react-dark" />
 </p>
 
 ## 🧠 What I Do
@@ -117,19 +117,19 @@ Design → Build → Scale → Optimize → Automate
 
 ## 📫 Connect With Me
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/ashish-kumar-gupta-9a183525"> 
+  <a href="https://www.linkedin.com/in/chetan-bhandari-2299b5203/"> 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" /> 
   </a> 
-  <a href="https://github.com/ashishkrgupta"> 
+  <a href="https://github.com/bchetan0209-ai/waytoai"> 
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge" /> 
   </a> 
-  <a href="mailto:ashishkrgupta@hotmail.com">
+  <a href="mailto:bchetan0209@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+917208769992">
     <img src="https://img.shields.io/badge/Phone-Call-green?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
-  <a href="https://wa.me/917208769992">
+  <a href="https://wa.me/1234567890">
     <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
